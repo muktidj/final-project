@@ -1,0 +1,17 @@
+.d-block {
+    height: 500px;
+}
+
+.carousel-control-next-icon {
+  color: red;
+}
+
+.sliderTitle {
+    color: black;
+    text-shadow: 1px 2px 3px rgba(12,100,222,0.5);
+}
+
+.sliderTitleH4 {
+  color: black;
+  text-shadow: 1px 2px 3px rgba(12,100,222,0.5);
+}
