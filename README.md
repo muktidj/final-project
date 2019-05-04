@@ -4,6 +4,8 @@ Jika ingin memakai file ini anda harus membukanya menggunakan server. kenapa ? k
 ada teknik AJAX yang untuk mengambil data dari JSON. Jika menggunakan VS code bisa membuka menggunakan 
 open with live server . jika gagal coba menggunaka cara ini
 
+-npm install -g http-server
+
 -arahkan ke direktori project
 
 Eg. d:\my_project> http-server
